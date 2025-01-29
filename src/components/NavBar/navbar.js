@@ -1,3 +1,7 @@
+/*navbar.js
+Alim Rashyani
+301497158*/
+
 import React from 'react';
 import './navbar.css';
 import logo from '../../assets/logo.png';
