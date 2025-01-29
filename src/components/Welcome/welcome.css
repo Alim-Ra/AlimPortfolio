@@ -1,0 +1,19 @@
+#welcome {
+    height: calc(100vh - 4rem);
+    width: 70vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.welcomePg {
+    height: 100vh;
+    width: 100vw;
+    padding: 11.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
