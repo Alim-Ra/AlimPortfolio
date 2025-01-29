@@ -1,10 +1,13 @@
+/*intro.js
+Alim Rashyani
+301497158
+28 January 2025*/
+
 import React from 'react';
 import './intro.css';
 import bg from '../../assets/image.png';
 import resume from '../../assets/AlimRashyaniResume.pdf';
-/*intro.js
-Alim Rashyani
-301497158*/
+
 const Intro = () => {
     return (
         <section id="intro">
