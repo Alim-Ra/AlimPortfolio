@@ -2,7 +2,7 @@ import React from 'react';
 import './intro.css';
 import bg from '../../assets/image.png';
 import resume from '../../assets/AlimRashyaniResume.pdf';
-/*intro.css
+/*intro.js
 Alim Rashyani
 301497158*/
 const Intro = () => {
