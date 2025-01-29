@@ -1,6 +1,7 @@
 /*App.js
 Alim Rashyani
-301497158*/
+301497158
+28 January 2025*/
 
 import Navbar from "./components/NavBar/navbar";
 import Intro from "./components/Intro/intro";
