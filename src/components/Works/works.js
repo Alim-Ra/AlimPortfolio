@@ -18,21 +18,21 @@ const Works = () => {
                     <img src={toDo} alt="toDo" className="worksImgsImg" />
                     <div className="worksImgsText">
                         <h2>To-Do List</h2>
-                        <p></p>
+                        <p>A simple and interactive web application to add, manage, and track tasks efficiently, built using HTML, CSS, and JavaScript for a seamless user experience.</p>
                     </div>    
                 </div>
                 <div className="worksImgs">
                     <img src={resumeBuild} alt="resumeBuild" className="worksImgsImg" />
                     <div className="worksImgsText">
                         <h2>Online Resume Builder</h2>
-                        <p></p>
+                        <p>A web application that helps users create professional resumes by customizing templates and inputting details, built using HTML, CSS, and JavaScript.</p>
                     </div>    
                 </div>
                 <div className="worksImgs">
                     <img src={guessNo} alt="guessNo" className="worksImgsImg" />
                     <div className="worksImgsText">
                         <h2>Number Guessing Game</h2>
-                        <p></p>
+                        <p>A fun and interactive game where users guess a randomly generated number, featuring dynamic hints and score tracking, developed using Java.</p>
                     </div>    
                 </div>
             
