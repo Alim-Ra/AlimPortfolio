@@ -1,3 +1,7 @@
+/*contact.js
+Alim Rashyani
+301497158*/
+
 import React from 'react';
 import './contact.css';
 
